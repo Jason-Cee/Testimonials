@@ -56,3 +56,9 @@ body {
   max-width: 37.6%;
   border-radius: 50px;
 }
+
+@media screen and {
+  max-width: 800px;
+   {
+  }
+}
